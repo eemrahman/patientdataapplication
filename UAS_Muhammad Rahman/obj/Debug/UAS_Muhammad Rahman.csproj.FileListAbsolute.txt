@@ -1,0 +1,30 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe.config
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.GUI.FPasien.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.Properties.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.pdb
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe.config
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.exe
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.pdb
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.pdb
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csprojResolveAssemblyReference.cache
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.GUI.FPasien.resources
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.Properties.Resources.resources
+D:\kuliah\Sem 3\Pemrograman Basis Data\UTS\PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csproj.GenerateResource.Cache
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe.config
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.exe
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.pdb
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.pdb
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csprojResolveAssemblyReference.cache
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.GUI.FPasien.resources
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad_Rahman.Properties.Resources.resources
+D:\kuliah\Sem 3\Pemrograman Basis Data\UAS_PBD_A_Muhammad Rahman\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.csproj.GenerateResource.Cache
+E:\Kuliah\Tekno\Sem 3\Pemrograman Basis Data\Aplikasi\UAS_Muhammad Rahman\UAS_Muhammad Rahman\bin\Debug\UAS_Muhammad Rahman.exe.config
+E:\Kuliah\Tekno\Sem 3\Pemrograman Basis Data\Aplikasi\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.exe
+E:\Kuliah\Tekno\Sem 3\Pemrograman Basis Data\Aplikasi\UAS_Muhammad Rahman\UAS_Muhammad Rahman\obj\Debug\UAS_Muhammad Rahman.pdb
